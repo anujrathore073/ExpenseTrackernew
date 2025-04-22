@@ -4,67 +4,6 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Expense Tracker - Django App</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 0;
-      padding: 0;
-      background-color: #f7f7f7;
-      color: #333;
-    }
-    .container {
-      width: 90%;
-      max-width: 900px;
-      margin: 40px auto;
-      padding: 20px;
-      background-color: white;
-      border-radius: 12px;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-    }
-    h1, h2 {
-      color: #007BFF;
-    }
-    pre {
-      background: #eee;
-      padding: 1em;
-      overflow-x: auto;
-      border-radius: 6px;
-    }
-    code {
-      background: #eee;
-      padding: 2px 4px;
-      border-radius: 4px;
-    }
-    img {
-      max-width: 100%;
-      border-radius: 8px;
-      margin: 10px 0;
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin: 1em 0;
-    }
-    table, th, td {
-      border: 1px solid #ddd;
-    }
-    th, td {
-      padding: 10px;
-      text-align: left;
-    }
-    a {
-      color: #007BFF;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    hr {
-      border: 1px solid #ddd;
-      margin: 2em 0;
-    }
-  </style>
 </head>
 <body>
   <div class="container">
